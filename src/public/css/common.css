@@ -1,0 +1,22 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #df2dff8b;
+    padding: 0 30px;
+    height: 60px;
+}
+
+.header-title{
+    color: #fff;
+}
+
+.btn {
+    background-color: #fff;
+    color: #df2dff8b;
+    font-size: 18px;
+    font-weight: bold;
+    border: none;
+    padding: 5px 10px;
+    text-decoration: none;
+}
